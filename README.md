@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+| [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
 ## Array
 |  |
 | ------- |
@@ -79,4 +80,20 @@
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
