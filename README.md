@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -25,6 +26,7 @@
 | [0002-add-two-numbers](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,10 +44,12 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -61,4 +66,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
