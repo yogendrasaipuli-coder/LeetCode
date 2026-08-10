@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
