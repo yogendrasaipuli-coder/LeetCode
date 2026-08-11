@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
