@@ -18,6 +18,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -31,12 +32,14 @@
 | [0009-palindrome-number](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -57,6 +60,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
