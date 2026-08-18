@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
@@ -137,4 +138,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
