@@ -36,6 +36,7 @@
 | [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
@@ -147,6 +151,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,4 +160,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
