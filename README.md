@@ -37,6 +37,7 @@
 | [1622-fancy-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1622-fancy-sequence) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
