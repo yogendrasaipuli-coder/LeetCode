@@ -4,11 +4,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -16,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1140-stone-game-ii](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1563-stone-game-v) |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
