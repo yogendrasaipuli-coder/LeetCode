@@ -16,6 +16,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [1386-cinema-seat-allocation](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,4 +187,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yogendrasaipuli-coder/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
